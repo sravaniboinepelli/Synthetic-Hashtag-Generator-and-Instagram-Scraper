@@ -1,4 +1,4 @@
-#Synthetic Hashtag Generator and Instagram Scraper
+# Synthetic Hashtag Generator and Instagram Scraper
 
 **Implemented by:** Rohan Kumar
 
