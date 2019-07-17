@@ -74,7 +74,8 @@ def my_form_post():
 		title = ['id', 'text', 'text_hashtag','comment_1','comment_2','comment_3','comment_4','comment_5']
 		csvwriter = csv.writer(csvfile)
 		csvwriter.writerow(title)
-		for key in range(0,len(keywords)):
+		# for key in range(0,len(keywords)):
+		for key in range(0,1):
 			keyword = keywords[key]
 			posts = []
 			end_cursor = '' 
